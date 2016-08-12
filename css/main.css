@@ -1,0 +1,84 @@
+/* Tu CSS va aqui */
+*{
+    font-family: "Open Sans";
+}
+
+#logo{
+    width: 30%;
+    margin: 2% 0%;
+}
+
+.m1{
+    text-decoration: none;
+    padding: 5% 5% 0% 0%;
+    color: gray;
+    float: right;
+    font-size: 70%;
+    margin-left: 10%;
+}
+
+.bgray{
+    background-color: gray;
+}
+
+.text{
+    font-size: 250%;
+    padding: 15% 0% 5%;
+}
+
+.text-w{
+    color: white;
+}
+
+.text-p{
+    padding: 5% 0% 15%;
+}
+
+.pos{
+    margin-left: 15%;
+}
+
+.mm{
+    margin-right: 10%;
+}
+
+form{
+    width: 100%;
+    background:#9A9A9A;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin: 20% 0% 0% 0%;
+    border-radius: 5%;
+}
+
+h2{
+    color: #fff;
+    text-align: center;
+    margin:0;
+    font-size: 145%;
+    margin-bottom: 5%;
+}
+
+input{
+    width: 100%;
+    margin-bottom: 4%;
+    padding: 2%;
+    box-sizing: border-box;
+    font-size: 85%;
+    border:none;
+}
+
+#boton{
+    background:#3EB0F7;
+    color: #fff;
+    padding: 4%;
+}
+
+#boton:hover{
+    cursor: pointer;
+}
+
+footer p{
+    margin: 3% 0%;
+    color: gray;
+}
