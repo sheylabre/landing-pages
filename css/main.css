@@ -82,3 +82,18 @@ footer p{
     margin: 3% 0%;
     color: gray;
 }
+
+@media (max-width: 535px){
+
+   .pos{
+    margin-left: 2%;
+   }
+
+   form{
+        margin-bottom: 10%;
+   }
+
+   .text-p{
+    padding: 5% 0 0;
+   }
+}
